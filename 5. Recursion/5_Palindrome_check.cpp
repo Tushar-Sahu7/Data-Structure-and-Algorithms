@@ -7,8 +7,7 @@ using namespace std;
 // A recursive function that
 // check a str[s..e] is
 // palindrome or not.
-bool isPalRec(char str[], 
-              int s, int e)
+bool isPalRec(char str[], int s, int e)
 {
     
     // If there is only one character
